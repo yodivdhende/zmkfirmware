@@ -1,6 +1,6 @@
 file_format: "1"
 id: friendlySplit 
-name: Friendly Split 
+name: FriendlySplit 
 type: shield
 url: https://github.com/yodivdhende/zmk-config 
 requires: [pro_micro]
