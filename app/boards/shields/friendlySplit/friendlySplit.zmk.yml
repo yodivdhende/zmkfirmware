@@ -1,0 +1,12 @@
+file_format: "1"
+id: friendlySplit 
+name: Friendly Split 
+type: shield
+url: https://github.com/yodivdhende/zmk-config 
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - friendlySplit_left 
+  - friendlySplit_right
