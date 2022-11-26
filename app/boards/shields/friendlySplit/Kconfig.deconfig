@@ -1,7 +1,10 @@
+
+
+
 if SHIELD_FRIENDLYSPLIT_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "FriendlySplit"
+    default "friendlySplit"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
